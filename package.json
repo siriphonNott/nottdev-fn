@@ -1,0 +1,21 @@
+{
+  "name": "nottdev-fn",
+  "version": "0.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siriphonNott/nottdev-fn.git"
+  },
+  "keywords": ["remove", "array", "duplicates"],
+  "author": "gravity-well <[siriphonnot@gmail.com](mailto:siriphonnot@gmail.com)>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siriphonNott/nottdev-fn/issues"
+  },
+  "homepage": "https://github.com/siriphonNott/nottdev-fn#readme",
+  "type": "module"
+}
